@@ -1,0 +1,20 @@
+﻿{
+	"id" : "mto",
+	"name" : "Météo Plage",
+	"description" : "Permet de connaitre la meteo des plages ",
+	"licence" : "AGPL",
+	"author" : "Micfri",
+	"require" : "3.2",
+	"category" : "Météo",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
